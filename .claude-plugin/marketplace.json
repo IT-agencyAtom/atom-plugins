@@ -1,0 +1,21 @@
+{
+  "name": "atom-plugins",
+  "owner": {
+    "name": "Aleksei Tomkin"
+  },
+  "metadata": {
+    "description": "Enhanced Claude Code plugins by Atom",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "telegram",
+      "source": {
+        "source": "github",
+        "repo": "IT-agencyAtom/claude-telegram-atom"
+      },
+      "description": "Enhanced Telegram channel — multi-session forum routing, STT, session restore.",
+      "version": "1.0.0"
+    }
+  ]
+}
