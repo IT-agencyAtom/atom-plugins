@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "telegram",
+      "name": "telegram-enhanced",
       "source": {
         "source": "github",
         "repo": "IT-agencyAtom/claude-telegram-atom"
